@@ -1,0 +1,12 @@
+DS 260312 Thu234 HW1 HW2 Quiz1 HW3 HW4 Quiz2
+Syl Week1 : intro,Lec0\nWeek2 : Lec1,3\nWeek3 : Lec2\nWeek4 : Lec4\nWeek5 : Lec5\nWeek6 : Quiz1
+Gra HW1   : 10%\nHW2   : 10%\nQuiz1 : 30%\nHW3   : 10%\nHW4   : 10%\nQuiz2 : 30%
+Stu LeiHa 108306111 JieYu 108306333
+HW1 90 80
+HW2 90 70
+Quiz1 85 85
+HW3 TBD TBD
+HW4 TBD TBD
+Quiz2 TBD TBD
+LeiHa 90 90 85 TBD TBD TBD
+JieYu 80 70 85 TBD TBD TBD

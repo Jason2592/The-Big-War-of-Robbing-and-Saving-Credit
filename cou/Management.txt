@@ -1,0 +1,12 @@
+Management 250310 MonD56 HW1 HW2 Quiz1 HW3 HW4 Quiz2
+Syl Week1 : intro,Lec0\nWeek2 : Lec1,3\nWeek3 : Lec2\nWeek4 : Lec4\nWeek5 : Lec5\nWeek6 : Quiz1
+Gra HW1   : 10%\nHW2   : 10%\nQuiz1 : 30%\nHW3   : 10%\nHW4   : 10%\nQuiz2 : 30%
+Stu Estela 108306444 WUN 108306555
+HW1 90 92
+HW2 94 92
+Quiz1 98 97
+HW3 TBD TBD
+HW4 TBD TBD
+Quiz2 TBD TBD
+Estela 90 94 98 TBD TBD TBD
+WUN 92 92 97 TBD TBD TBD

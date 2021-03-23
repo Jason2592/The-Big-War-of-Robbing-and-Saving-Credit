@@ -1,0 +1,13 @@
+L_Algebra 250212 TueD56 HW1 HW2 Quiz1 HW3 HW4 Quiz2
+Syl Week1 : intro,Lec0\nWeek2 : Lec1,3\nWeek3 : Lec2\nWeek4 : Lec4\nWeek5 : Lec5\nWeek6 : Quiz1
+Gra HW1   : 10%\nHW2   : 10%\nQuiz1 : 30%\nHW3   : 10%\nHW4   : 10%\nQuiz2 : 30%
+Stu LeiHa 108306111 Estela 108306444 WUN 108306555
+HW1 88 87 90
+HW2 79 90 89
+Quiz1 65 67 72
+HW3 TBD TBD TBD
+HW4 TBD TBD TBD
+Quiz2 TBD TBD TBD
+LeiHa 88 79 65 TBD TBD TBD
+Estela 87 90 67 TBD TBD TBD
+WUN 90 89 72 TBD TBD TBD

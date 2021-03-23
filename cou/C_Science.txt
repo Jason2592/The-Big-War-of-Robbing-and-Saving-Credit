@@ -1,0 +1,12 @@
+C_Science 260311 Fri234 HW1 HW2 Quiz1 HW3 HW4 Quiz2
+Syl Week1 : intro,Lec0\nWeek2 : Lec1,3\nWeek3 : Lec2\nWeek4 : Lec4\nWeek5 : Lec5\nWeek6 : Quiz1
+Gra HW1   : 10%\nHW2   : 10%\nQuiz1 : 30%\nHW3   : 10%\nHW4   : 10%\nQuiz2 : 30%
+Stu Tien 108306222 Estela 108306444
+HW1 89 92
+HW2 88 95
+Quiz1 92 94
+HW3 99 100
+HW4 TBD TBD
+Quiz2 TBD TBD
+Tien 89 88 92 99 TBD TBD
+Estela 92 95 94 100 TBD TBD
